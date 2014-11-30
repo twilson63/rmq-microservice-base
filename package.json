@@ -1,0 +1,18 @@
+{
+  "name": "svc-core",
+  "version": "1.0.0",
+  "description": "A core micro-service library using rabbitmq bus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rewire": "^2.1.3",
+    "tap": "^0.4.13"
+  },
+  "dependencies": {
+    "jackrabbit": "^3.0.8"
+  }
+}
