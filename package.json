@@ -1,5 +1,5 @@
 {
-  "name": "svc-core",
+  "name": "rmq-microservice-base",
   "version": "1.0.0",
   "description": "A core micro-service library using rabbitmq bus.",
   "main": "index.js",
