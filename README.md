@@ -1,5 +1,8 @@
 # RMQ-MicroService-Base
 
+[![build status](https://secure.travis-ci.org/twilson63/rmq-microservice-base.png)](http://travis-ci.org/twilson63/rmq-microservice-base)
+
+
 A base module that removes the boilier-plate from a rabbitmq micro service.
 
 ``` js
