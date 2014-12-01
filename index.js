@@ -1,4 +1,5 @@
 var jackrabbit = require('jackrabbit');
+var healthServer = require('health-server');
 
 module.exports = function(opts, handle) {
   var broker = jackrabbit(opts.SERVER);
